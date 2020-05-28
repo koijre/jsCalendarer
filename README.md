@@ -1,6 +1,5 @@
 # jsCalendarer
 A basic calendar script. Easy to edit &amp; customize for your project.
-<h2>Calendarer</h2>
 		<p>A basic calendar script. Easy to edit & customize for your project.</p>
 		<p>Parameters: showCalendar(<b>boolean</b> startWithMonday, <b>array</b> holidayDays, <b>string</b> returnFunction);</p>
 		<p>For holidayDays 0=Sunday, ..., 6=Saturday</p>
